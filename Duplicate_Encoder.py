@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+#https://www.codewars.com/kata/duplicate-encoder/train/python
 
 def duplicate_encode(word):
     dict = {}
