@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#https://www.codewars.com/kata/52bef5e3588c56132c0003bc
+
 class Node:
     def __init__(self, L, R, n):
         self.left = L
